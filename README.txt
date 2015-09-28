@@ -1,4 +1,5 @@
 Trabalho 1 - Linguagens de Programação E Aplicações - Professor Adenilso Simão
+
 Alunos: 1 - Alexandre Lucas Andrade Vieira nº USP: 9312665
 	2 - André Luthold n°USP: 9022071
 	3 - Renato Gouveia Rossini nº USP: 9312665
@@ -19,5 +20,5 @@ elementos que só apareceram uma vez no vetor.
 retornará o elemento que que ocorre em maior número, além de retornar quantas vezes o mesmo aparece.
 
 4. Fecho Convexo (Convex Hull): Basta definir um vetor de pontos no formato (x,y), dado por um struct. Após isso, o programa
-retornará o subconjunto de pontos que forma um polígono com área mínima contendo todos os demais pontos.
+retornará o subconjunto de pontos que forma um polígono com área mínima contendo todos os demais pontos. 
 
